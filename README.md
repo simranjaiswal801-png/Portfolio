@@ -18,7 +18,7 @@ Home / Hero, About Me, Skills, Projects, Internship Experience, Education & Cert
 
 📌 Live Demo
 
-https://simranjaiswal801-png.github.io/Portfolio/
+ https://simranjaiswal801-png.github.io/Portfolio/
 
 👩‍💻 Author->>
 
